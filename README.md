@@ -5,9 +5,9 @@
 </div>
 
 <!-- Tech Snake Animation -->
-<!-- <div align="center">
-  <img src="https://github.com/siddhiipatell/siddhiipatell/assets/67776005/aa2aee8c-e13f-4a56-b3be-e2063128c3b4" alt="snake animation" />
-</div> -->
+<div align="center">
+  <img src="https://github.com/Bhavya156/Bhavya156/assets/67776005/aa2aee8c-e13f-4a56-b3be-e2063128c3b4" alt="snake animation" />
+</div>
 
 <!-- About Me Section -->
 ### 💡 About Me
