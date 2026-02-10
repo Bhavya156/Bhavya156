@@ -6,7 +6,12 @@
 
 <!-- Tech Snake Animation -->
 <div align="center">
-  <img src="https://github.com/Bhavya156/Bhavya156/assets/67776005/aa2aee8c-e13f-4a56-b3be-e2063128c3b4" alt="snake animation" />
+  <!-- <img src="https://github.com/Bhavya156/Bhavya156/assets/67776005/aa2aee8c-e13f-4a56-b3be-e2063128c3b4" alt="snake animation" /> -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Bhavya156/Bhavya156/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Bhavya156/Bhavya156/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Bhavya156/Bhavya156/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 <!-- About Me Section -->
