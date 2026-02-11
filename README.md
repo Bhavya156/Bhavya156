@@ -45,5 +45,5 @@ I enjoy working at the intersection of code + game design, where problem-solving
 ### 🌐 Let's Connect  
 <p align="center">
   <a href="www.linkedin.com/in/bhavya-parekh156" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="40"/></a>
-  <a href="https://www.youtube.com/@bhavyaparekh2223" target="_blank"><img src="https://www.flaticon.com/free-icon/youtube_3670147?term=youtube&page=1&position=1&origin=search&related_id=3670147" height="50" />
+  <a href="https://www.youtube.com/@bhavyaparekh2223" target="_blank"><img src="https://icons8.com/icon/19318/youtube" height="50" />
 </p>
